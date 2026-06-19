@@ -32,14 +32,11 @@ This project is a simple Language Translation Tool developed using Python and th
 
 ## Environment Setup
 
-Create a new Conda environment:
-conda create -n translator python=3.11
+Create a new Conda environment:     conda create -n translator python=3.11
 
-Activate the environment:
-conda activate translator
+Activate the environment:           conda activate translator
 
-Install the required library:
-pip install googletrans==4.0.0-rc1
+Install the required library:       pip install googletrans==4.0.0-rc1
 
 ## How to Run
 
